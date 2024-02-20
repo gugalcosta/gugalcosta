@@ -1,7 +1,7 @@
 Olá, esse é meu repositório de estudos, onde a ideia é centralizar aqui todos os códigos e projetos de estudos e cursos nos quais estou realizando, meu Github "oficial" segue abaixo nos contatos.
 
 ### Um pouco sobre mim
-Sou engenheiro de software apaixonado por tecnologia e estar em constante aprendizado, tenho um foco mais voltado ao backend, mas já me aventurei e tive minhas experiências no front-end (de vez em quando pretendo praticar mais rs).
+Sou engenheiro de software apaixonado por tecnologia e estar em constante aprendizado, tenho um foco mais voltado ao backend e gestão, sendo gestão meu objetivo de carreira ao longo prazo, mas já me aventurei e tive minhas experiências no front-end (de vez em quando pretendo praticar mais rs).
 
 ### Principais stacks
 <div>
